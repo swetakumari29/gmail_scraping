@@ -1,5 +1,16 @@
 ###Note : dependencies has been provides in requirement.txt file
 
+Go to the Directory and run the following command for django setup 
+    
+    virtualenv venv
+    
+    source venv/bin/activate
+
+    pip3 intall -r requirements.txt
+    
+    python manage.py migrate
+
+
 #Task 1: Login/logout using jwt
 ###### step 1:
 
